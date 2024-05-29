@@ -1,0 +1,14 @@
+/* estilo.css */
+
+/* Estilos anteriores... */
+
+.produto {
+    /* ... */
+    display: flex; /* Permite que os elementos fiquem lado a lado */
+    align-items: center; /* Alinha verticalmente no centro */
+}
+
+.produto input[type="number"] {
+    width: 50px; /* Ajuste o tamanho da caixa de número */
+    margin-left: 10px;
+}
